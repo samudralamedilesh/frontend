@@ -26,7 +26,7 @@ body {
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .login_container{
-background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0,0,0,0.7)),url("C:\Users\Sai Ganesh\OneDrive\Desktop\cc\frontend\src\login_background2.jpg");
+background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0,0,0,0.7)),url("C:/Users/Sai Ganesh/OneDrive/Desktop/cc/frontend/src/login_background2.jpg");
 width:100vw;
 height:100vh;
 }
