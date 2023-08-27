@@ -90,7 +90,7 @@ return(
         <div className="asktext">
         <p className="text_inside_bp" style={{ color: textColor }}>Know stories<br/> and<br/>Get Inspired</p>
         </div>
-        <img className="ask_img" src={blog}/> 
+        {/* <img className="ask_img" src={blog}/>  */}
         
       </div>} 
     
