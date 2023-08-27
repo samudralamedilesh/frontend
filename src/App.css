@@ -26,7 +26,7 @@ body {
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .login_container{
-background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0,0,0,0.7)),url("C:\Users\Sai Ganesh\OneDrive\Desktop\cc\frontend\src\login_background2.jpg");
+background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0,0,0,0.7)),url("C:/Users/Sai Ganesh/OneDrive/Desktop/cc/frontend/src/login_background2.jpg");
 width:100vw;
 height:100vh;
 }
@@ -290,7 +290,7 @@ nav a:hover{
 
 
 .ask_page{
-  background-image:url("C:\Users\Sai Ganesh\OneDrive\Desktop\cc\frontend\src\pexels-jess-bailey-designs-768474 (1).jpg");
+  background-image:url("C:\Users\Sai Ganesh\OneDrive\Desktop\cc\frontend\src/pexels-jess-bailey-designs-768474 (1).jpg");
   /* background-color: #03e9f4; */
   background-size:cover;
   background-attachment: fixed;
@@ -304,7 +304,7 @@ nav a:hover{
   
 }
 .blog_page{
-  background-image:url("C:\Users\Sai Ganesh\OneDrive\Desktop\cc\frontend\src\pexels-jess-bailey-designs-768474 (1).jpg");
+  background-image:url("C:/Users/Sai Ganesh/OneDrive/Desktop/cc\frontend/src/pexels-jess-bailey-designs-768474 (1).jpg");
   background-size:cover;
 
   display: flex;
